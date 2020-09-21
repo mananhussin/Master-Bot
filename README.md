@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 ### Installing the dependencies
-
+[![Run on Repl.it](https://repl.it/badge/github/galnir/Master-Bot)](https://repl.it/github/galnir/Master-Bot)
 `npm i`
 
 ### Setup
